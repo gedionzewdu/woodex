@@ -1,31 +1,27 @@
-\<div align="center"\>
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/gedionzewdu/woodex)
+  ![GitHub stars](https://img.shields.io/github/stars/gedionzewdu/woodex?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/gedionzewdu/woodex?style=social)
 
-  
-  
-  
-[](https://www.google.com/search?q=https://twitter.com/intent/follow%3Fscreen_name%3Dgedionzewdu)
-  [](https://youtu.be/NK8Cif0dAoM)
+  <br />
+  <br />
 
-  \<br /\>
-  \<br /\>
+  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
 
-  \<h2 align="center"\>Woodex - Furniture eCommerce Website\</h2\>
+  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  Woodex is a fully responsive furniture ecommerce website, \<br /\>Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  \<a href="[https://gedionzewdu.github.io/woodex/](https://www.google.com/search?q=https://gedionzewdu.github.io/woodex/)"\>\<strong\>➥ Live Demo\</strong\>\</a\>
-
-\</div\>
-
-\<br /\>
+<br />
 
 ### Demo Screeshots
+
+![Woodex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-  * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
